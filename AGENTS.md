@@ -1,0 +1,3 @@
+- Keep shared portfolio navigation and footer in a browser-safe SiteShell component so all content pages stay consistent.
+- Keep portfolio sample data separate from route modules so route code splitting cannot remove shared exports.
+- Use downloadable inquiry drafts until a real contact address and delivery service are supplied, so the site never falsely reports sending a message.
